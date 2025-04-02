@@ -1,0 +1,26 @@
+body {
+    background-color: #F0EEFF; 
+}
+
+.navbar {
+    background-color: #ffffff;
+}
+
+.card {
+    background-color: #ffffff; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+a:hover {
+    background-color: #F6F6F6;
+}
+
+.page-transition {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+body {
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+}
